@@ -1,6 +1,6 @@
 {
   "name": "orchestrator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Splits a task into subtasks, gives each subtask to a subagent on a fitting model, and shows the task tree live in a pane.",
   "author": {
     "name": "TheBestIT"

@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.1] - 2026-10-21
+
+### Added
+
+- A plugin icon at `.claude-plugin/icon.png`. The README shows the icon.
+
+### Changed
+
+- The author name is now TheBestIT in `plugin.json`, `marketplace.json` and `LICENSE`.
+
 ## [0.1.0] - 2026-10-18
 
 ### Added
@@ -16,4 +26,5 @@
 - `/orchestrate <task>` did not answer. The command waited for its own queued prompt.
 - `/orchestrate <task>` did not start the task. The engine stopped the queued prompt when the command ended. The mod now queues the prompt from a timer.
 
+[0.1.1]: https://github.com/TheBestIT/claude-orchestrator/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/TheBestIT/claude-orchestrator/releases/tag/v0.1.0
