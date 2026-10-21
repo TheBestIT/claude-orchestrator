@@ -2,9 +2,12 @@
   "name": "orchestrator",
   "version": "0.1.0",
   "description": "Splits a task into subtasks, gives each subtask to a subagent on a fitting model, and shows the task tree live in a pane.",
-  "author": { "name": "Soleii" },
+  "author": {
+    "name": "Soleii"
+  },
   "homepage": "https://github.com/TheBestIT/claude-orchestrator",
   "repository": "https://github.com/TheBestIT/claude-orchestrator",
   "license": "MIT",
-  "types": "./types/index.d.ts"
+  "types": "./types/index.d.ts",
+  "icon": "./.claude-plugin/icon.png"
 }

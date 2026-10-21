@@ -1,3 +1,5 @@
+<img src=".claude-plugin/icon.png" alt="" width="96" align="right">
+
 # Claude Orchestrator
 
 A Claude Code plugin. It splits a task into subtasks and gives each subtask to a subagent on a fitting model.
