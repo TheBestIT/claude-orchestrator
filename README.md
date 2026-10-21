@@ -1,12 +1,14 @@
-<img src=".claude-plugin/icon.png" alt="" width="96" align="right">
+<div align="center">
+
+<img src=".claude-plugin/icon.png" alt="Claude Orchestrator icon" width="128">
 
 # Claude Orchestrator
 
 A Claude Code plugin. It splits a task into subtasks and gives each subtask to a subagent on a fitting model.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version 0.1.1](https://img.shields.io/badge/version-0.1.1-green.svg)](CHANGELOG.md)
-[![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757.svg)](https://github.com/TheBestIT/claude-orchestrator)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Version 0.1.1](https://img.shields.io/badge/version-0.1.1-green.svg)](CHANGELOG.md) [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757.svg)](https://github.com/TheBestIT/claude-orchestrator)
+
+</div>
 
 ![The orchestrator pane with a running task tree](docs/images/pane.svg)
 
