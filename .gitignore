@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# Test output
+coverage/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Local Claude Code settings
+.claude/settings.local.json

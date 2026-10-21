@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="348" viewBox="0 0 820 348" role="img" aria-label="Task tree pane of the Claude Orchestrator plugin">
+<rect x="0.5" y="0.5" width="819" height="347" rx="12" fill="#1e1e1e" stroke="#3c3c3c"/>
+<path d="M0.5 12.5a12 12 0 0 1 12-12H807.5a12 12 0 0 1 12 12V38H0.5Z" fill="#2b2b2b"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="410.0" y="24" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#9a9a9a">Claude Code</text>
+<g font-family="ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace" font-size="14" xml:space="preserve">
+<text x="24.0" y="62" textLength="277.2" lengthAdjust="spacing" fill="#d77757" font-weight="bold">◐ Clean up the docs and add tests</text>
+<text x="24.0" y="84" textLength="310.8" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">1/4 done · 2 running · 34s · 6.0k tok</text>
+<text x="24.0" y="106" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">├─ </text>
+<text x="49.2" y="106" textLength="16.8" lengthAdjust="spacing" fill="#4ec27a">✔ </text>
+<text x="66.0" y="106" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" font-weight="bold">T1 </text>
+<text x="91.2" y="106" textLength="277.2" lengthAdjust="spacing" fill="#d4d4d4">Find stale docs and broken links </text>
+<text x="368.4" y="106" textLength="58.8" lengthAdjust="spacing" fill="#4ec27a">[haiku]</text>
+<text x="427.2" y="106" textLength="218.4" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">  12s · 2 tools · 1.2k tok</text>
+<text x="24.0" y="128" textLength="369.6" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">│    Found 3 stale pages and 5 broken links.</text>
+<text x="24.0" y="150" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">├─ </text>
+<text x="49.2" y="150" textLength="16.8" lengthAdjust="spacing" fill="#e5b84b">◐ </text>
+<text x="66.0" y="150" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" font-weight="bold">T2 </text>
+<text x="91.2" y="150" textLength="201.6" lengthAdjust="spacing" fill="#d4d4d4">Rewrite the stale pages </text>
+<text x="292.8" y="150" textLength="67.2" lengthAdjust="spacing" fill="#5ea8ff">[sonnet]</text>
+<text x="360.0" y="150" textLength="218.4" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">  22s · 4 tools · 3.9k tok</text>
+<text x="24.0" y="172" textLength="92.4" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">│    → Edit</text>
+<text x="24.0" y="194" textLength="50.4" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">│  └─ </text>
+<text x="74.4" y="194" textLength="16.8" lengthAdjust="spacing" fill="#e5b84b">◐ </text>
+<text x="91.2" y="194" textLength="42.0" lengthAdjust="spacing" fill="#d4d4d4" font-weight="bold">T2.1 </text>
+<text x="133.2" y="194" textLength="193.2" lengthAdjust="spacing" fill="#d4d4d4">Check the code samples </text>
+<text x="326.4" y="194" textLength="58.8" lengthAdjust="spacing" fill="#4ec27a">[haiku]</text>
+<text x="385.2" y="194" textLength="201.6" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">  8s · 1 tools · 900 tok</text>
+<text x="24.0" y="216" textLength="117.6" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">│       → Read</text>
+<text x="24.0" y="238" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">└─ </text>
+<text x="49.2" y="238" textLength="16.8" lengthAdjust="spacing" fill="#8b8f98">○ </text>
+<text x="66.0" y="238" textLength="25.2" lengthAdjust="spacing" fill="#d4d4d4" font-weight="bold">T3 </text>
+<text x="91.2" y="238" textLength="260.4" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">Write tests for the docs build </text>
+<text x="351.6" y="238" textLength="50.4" lengthAdjust="spacing" fill="#b48ef0">[opus]</text>
+<text x="24.0" y="260" textLength="109.2" lengthAdjust="spacing" fill="#d4d4d4" fill-opacity="0.6">     after T2</text>
+<text x="24.0" y="304" textLength="92.4" lengthAdjust="spacing" fill="#4ec27a">■ haiku 2  </text>
+<text x="116.4" y="304" textLength="100.8" lengthAdjust="spacing" fill="#5ea8ff">■ sonnet 1  </text>
+<text x="217.2" y="304" textLength="84.0" lengthAdjust="spacing" fill="#b48ef0">■ opus 1  </text>
+</g></svg>
