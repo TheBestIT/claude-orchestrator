@@ -1,6 +1,6 @@
 {
   "name": "claude-orchestrator",
-  "owner": { "name": "Soleii" },
+  "owner": { "name": "TheBestIT" },
   "description": "Marketplace for the orchestrator plugin for Claude Code.",
   "plugins": [{ "name": "orchestrator", "source": "./" }]
 }
